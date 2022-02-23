@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Longitudinis inventæ explicatio non longa, or, Fixing the volatilised, and taking time on tiptoe, briefly explain'd by which rules are given to find the longitude at sea by, as truly and exactly as the latitude is found by the star in the tayle of Ursa Minor, call'd the Pole-star / by S.F. ...</title>
+            <author>Fyler, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41013</idno>
+            <idno type="STC">Wing F59</idno>
+            <idno type="STC">ESTC R221238</idno>
+            <idno type="EEBO-CITATION">19367900</idno>
+            <idno type="OCLC">ocm 19367900</idno>
+            <idno type="VID">108792</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108792)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1669:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Longitudinis inventæ explicatio non longa, or, Fixing the volatilised, and taking time on tiptoe, briefly explain'd by which rules are given to find the longitude at sea by, as truly and exactly as the latitude is found by the star in the tayle of Ursa Minor, call'd the Pole-star / by S.F. ...</title>
+                  <author>Fyler, Samuel.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Longitude --  Early works to 1800.</term>
+               <term>Navigation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108792:1" rendition="simple:additions"/>
+            <p>LONGITUDINIS Inventae Explicatio NON LONGA, OR, Fixing the VOLATILIS'D, AND TAKING TIME ON TIPTOE, Briefly Explain'd;</p>
+            <p>By which Rules are given to find the Longitude at Sea by, as truly and exactly as the Latitude is found by the Star in the Tayle of <hi>Urſa Minor,</hi> call'd the <hi>Pole-Star.</hi>
+            </p>
+            <p>Nauta Sciens, modô ſit Vigilans, dominabitur Auſtris.</p>
+            <p>By <hi>S.F. A.M.</hi> Rector of <hi>Stockton</hi> in the County of <hi>Wilts.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, in the Year, 1699.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:108792:2"/>
+            <pb facs="tcp:108792:2"/>
+            <head>To the Courteous and Diſcreet READER, Particular him, who is a Friend to NAVIGATION.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THere is a trite and common ſaying which has poſſeſs'd Men's Minds, and fill'd them with Prejudice againſt ſuch Inventions as are diſcover'd by an obvious and eaſie way, and the ſaying is, <hi>Difficilia quae Pulchra;</hi> the more excellent things are, the more hardly to be found: Somewhat agreea<g ref="char:EOLhyphen"/>ble to which is that Proverbial Speech amongſt us <hi>Engliſhmen, Far fetch'd is fit for Ladies,</hi> which ſhews that the Rarity of things puts an Eſteem and Value on them. It is this, I conceive, that makes Men chooſe rather with great Fa<g ref="char:EOLhyphen"/>tigue and Pains to Err Elaborately, than to court and imbrace Truth in its own Natural Dreſs; thinking they have done nothing worthy of Men's Reception (the Leaves of the <hi>Tree of Knowledge</hi> ſtill hanging on their Fingers) unleſs what they offer to the World be hammer'd out in a way remote from Vulgar Ca<g ref="char:EOLhyphen"/>pacities; in a way, that ſhews themſelves to be Men of Wonder, as the Scripture calls Men of Excellency, that is to ſay, more Egregiouſly Skill'd in the <hi>Mathe<g ref="char:EOLhyphen"/>maticks,</hi> or the recondite Learning of ſuch as call themſelves Adepts, and Bre<g ref="char:EOLhyphen"/>thren of the <hi>Roſy-Croſs,</hi> than others are. For my part, I cannot think elſe why it is, that the Learn'd in our Age, in order to find out the Longitude at Sea, have beaten their Brains ſo much, for many Months and Years together, on the Hypotheſis of the Magnetical Inclinatory Needle, creating to themſelves <hi>Magn-Aequators, Magni-Poles,</hi> &amp;c. as likewiſe on that other of the <hi>Satellitial Planets,</hi> the <hi>Satrapae</hi> of <hi>Jupiter</hi> (as the Event proves) to little purpoſe, and un<g ref="char:EOLhyphen"/>ſucceſsfully. Wherefore expect I doe that the way for unfolding the Myſtery that I take, being a Pediſſequus of Nature, and following her Guidance, not forcing her to be at my beck, will be look'd on as a light Atchievement, tho' true, as ſoon as Men take it, as the New Word goes, cleverly; juſt as mean Inventions (yea and noble ones too, when once known) are wont to be, only for being with
+<pb facs="tcp:108792:3"/>ſmall Pains or Coſt effected. But as the Air in which we breath, and the Light we ſee by (without either of which we cannot ſubſiſt or live) are not a whit the leſs valuable in themſelves, for being Common, and not to be fetch'd from far, like Gold and Diamonds; ſo is the Diſcovery of things profitable to Mankind, not to be the leſs eſteemed neither, for that they are not taken out of the Writings of <hi>Ptolomy, Copernicus, Tycho Brahe,</hi> or <hi>Galileo</hi> with his <hi>Nuntius Sydereus.</hi> Accordingly, that with the firſt finder out of the New World (by Name <hi>Colum<g ref="char:EOLhyphen"/>bus</hi>) I may ſet the egg on end, withou further delay, (let it be <hi>Fauſto ſydere,</hi> or no,) I ſhall for finding the Longitude give my Directions by way of Queſtion and Anſwer in the following Dialogue, humbly conceiving, that the Mediums I pro<g ref="char:EOLhyphen"/>poſe, will, if not full out, in a good meaſure at leaſt, do the feat; yet withal deſiring ſome expert and skilful Artiſt (for I have not handled the Globes ſince <hi>An. 54,</hi> when left the <g ref="char:V">Ʋ</g>niverſity, if I prove any where defective) to put to his hand, and amend, or improve what he finds ſhort, in regard Perfection is not but by Tryals, Practice, and <g ref="char:V">Ʋ</g>ſe, (by which Habits are gotten) to be attain'd by any. Whatſoever the ſucceſs of my <g ref="char:V">Ʋ</g>ndertaking may be, I am no way con<g ref="char:EOLhyphen"/>cern'd, becauſe, if under Miſtake, in regard my Aim is good, I am, at leaſt, Pardonable; and if my Hypotheſis prove true, it will be a Reward it ſelf; for, That God may have the Glory, and my Country the Benefit of't is, as the chief End, ſo the hearty Deſire of</p>
+            <closer>
+               <signed>HIS, Tho' unworthy, Servant, and HER Unfeign'd Well-Wiſher, <hi>Samuel Fyler.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:108792:3"/>
+            <head>THE DIALOGUE Suppos'd to have been betwixt an <hi>Intelligent Seaman,</hi> and the <hi>Author</hi> thereof.</head>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>I Find, Sir, that you pretend, by Fixing the Volatilis'd, and taking Time on Tiptoe, as you expreſs your ſelf, to ſhew the Erring <hi>Seaman</hi> his Longitude, when in amaze, and at a loſs at Sea, that vaſt Eremus, or Wilderneſs of Water; I deſire to know what it is that by theſe Expreſſions you mean?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>You know, Sir, that Time is not a <hi>Nunc Stans,</hi> as Eternity is, (Time ſtaying for no Man's pleaſure) but that the Eighth Sphere, and the Stars therein, which I have reſpect to (of the moving of which Time is the meaſure) are always, I may ſay, upon the Wing, and in conti<g ref="char:EOLhyphen"/>nual Motion, You are not therefore to imagine, that I mean, by what I ſay, to ſtop the Courſe of the Stars, and make them, as <hi>Joſhua</hi> did the Sun, ſtand ſtill; but only to bring them to ſuch a certain Point, that I may know what Stars will be at that Point, tho' they ſtay there but a little while, a Minute or two, being enough for the Purpoſe: Then by taking Time on Tiptoe, I mean a ſpeedy and quick Obſervation in find<g ref="char:EOLhyphen"/>ing agen thoſe Stars, which I have thus fix'd to a Point, when there ſhall be occaſion.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>By what you have ſaid yet, Sir, I do not well underſtand what your meaning is; will you be pleas'd to make your Hypotheſis yet more plain?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>I preſume you would be told how ſuch Feats as theſe may be effected. Accordingly, to fulfil your deſire I ſhall ſhew you, Firſt, How to Fix the Stars, which, at the Creation, were Volatilis'd by their Maker, and continue always in Motion; And, Secondly, I ſhall ſhew you, How you may find them agen, when they are for that purpoſe fix'd firſt.</p>
+            </sp>
+            <pb n="2" facs="tcp:108792:4" rendition="simple:additions"/>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>I deſire to be acquainted with both theſe particulars, inſtruct me I pray you. How may they be fix'd firſt of all?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>You very well know, I ſuppoſe, that the Firſt Meridian is ſo, Firſt that, I mean, as much as to ſay, decreed by Aſtrologers to paſs by the Continent of <hi>Europe</hi> and <hi>Africa,</hi> over the <hi>Azores,</hi> or <hi>Canary</hi> Iſlands. It follows therefore that if you erect a Scheme of the Heavens before-hand for every Fourteenth Midnight in the Year, and depict a Row of Stars in a Map, the moſt eminent that ſhall be on ſuch Midnights at the firſt Me<g ref="char:EOLhyphen"/>ridian, the Row paſſing along from the Tropic of <hi>Cancer</hi> to that of <hi>Ca<g ref="char:EOLhyphen"/>pricorn,</hi> as alſo a Parallel or two without the Tropics, you will have thoſe Stars in a manner fix'd too; ſo far, at leaſt, as to know that they are at the Firſt Meridian on any ſuch Midnight preciſely: So I hope you know my meaning fully as to that matter.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>I underſtand you, Sir, in this particular; but granting that ſuch, or ſuch Stars are there, may they, by the Mariner, when loſt at Sea, be ſure to be found agen?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>Yes ſurely, ſay I in anſwer to this ſecond particular. For 'tis but finding out what Stars on the night you enquire them for at the firſt Meri<g ref="char:EOLhyphen"/>dian, are there; which you will ſurely find, if you obſerve what Sign of the <hi>Zodiac</hi> your Map tells you they are in, as alſo in what part of the Sign; for the depicted Stars for that night, if the Schemes be erected right, will be there certainly. But obſerve you muſt, that my Rule ſerves only for the North-ſeas: For if you would have a Rule for the other ſide of the New World, you muſt firſt Conſtitute a New Firſt-Meridian paſ<g ref="char:EOLhyphen"/>ſing from Pole to Pole over <hi>Califoria</hi> and the <hi>Gallipagos,</hi> along by <hi>Peru,</hi> and <hi>Chili</hi> Southward, becauſe in thoſe Seas the Firſt Meridian adjoyning to our Continent cannot be ſeen.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>I underſtand your meaning now in theſe particulars, and, I con<g ref="char:EOLhyphen"/>ceive, I ſee your drift, which is this; that the <hi>Seaman</hi> knowing certain Stars, which in the North-Seas will be directly Eaſtward from him, may make uſe of them to know his Longitude, which is nothing elſe but his diſtance from the Firſt Meridian by, as he does his Latitude by the <hi>Pole-Star,</hi> is not this it?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>Yes, it is; and I doubt not at all, but if he can find (looking Eaſtward) any of his depicted Stars (having as little Motion, I may ſay, as the <hi>Pole-Star</hi> hath) he may know one as well as the other, the ſame reaſon being to be given for both, who does not ſee ſo much?</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Your reaſoning, I confeſs, is very right; but pray tell me at once, what courſe I ſhall take to fix a Row of moſt Eminent Stars at the Firſt Meridian for every Fourteenth Midnight in the Year. Will you be pleas'd to do this?</p>
+            </sp>
+            <pb n="3" facs="tcp:108792:4"/>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>To gratify your deſire, I will, and it is thus. You muſt have good Globes by you, in which, 'tis to be ſuppos'd, you are well skill'd. Then you muſt conſider your ſelf as under the Firſt Meridian. Then you muſt erect Schemes for every Fourteenth Midnight in the Year, ta<g ref="char:EOLhyphen"/>king your riſe at the Firſt Point of the ſign <hi>Aries.</hi> Then you are to make good Obſervations of the moſt Eminent Stars running along by the Firſt Meridian from <hi>Tropic</hi> to <hi>Tropic,</hi> and a parallel or two on each ſide. Then having a Paper before you, you muſt depict thoſe Eminent Stars with the ſign they are in, orderly, and faithfully; ſo that a Map may be fitted for the uſe of <hi>Seamen,</hi> to be carry'd along with them to Sea. What think you now? Have I not ſhewn you a way to Fix the Volatilis'd? Will not here be a <hi>Nuncſtans,</hi> as it were, a Moment or Mi<g ref="char:EOLhyphen"/>nute on which you may take Time by the Forelock? Will not the <hi>Sea<g ref="char:EOLhyphen"/>man,</hi> wherever he be in the North-Seas, be able to know ſuch Eminent Stars, when he ſees them, agen?</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Confeſs I doe that I cannot withold my aſſent from what you lay down, and therefore grant that you have, as you ſpake, Fix'd the Volatilis'd: For tho' the Row of Stars you ſpeak of will not ſtay at the Firſt Meridian, yet at the Midnight Inſtant, they will be there, and the Map will tell me which of them muſt be therefore that Midnight on which I have occaſion to make uſe of it; but how ſhall I know by't my diſtance from thoſe Stars at the Midnight Inſtant?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>Here is that now which I call taking Time on Tiptoe; and my Anſwer to this Queſtion is, That you may indeed find them at the Firſt Meridian, yet not at every hour of the Night, but a Critical point of Time; and in this particular you muſt be careful, becauſe your Stars to be found at the Firſt Meridian (like a Bird on the top-branch of a Tree, juſt taking Wing) will be gone if you delay, or linger; otherwiſe you will doubtleſs ſee where your Firſt Meridian Stars are.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>I grant that, Time being as a Bird taking Wing every Moment, he that will take hold of it, had need be ſpeedy; and will grant likewiſe, for the preſent, that the Stars for any of thoſe Fourteenth Midnights in my Map depicted may be found, as I believe they may; but will they ſerve the turn, and may they be us'd, with good ſucceſs, on any other Night in the Year?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>Yes, ſurely may they, ſuppoſing that the Sky be not over-caſt, and that the Stars may be ſeen ſhining brightly.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>I pray you, ſhew me how this may be perform'd, in regard the Stars, you ſay, that I muſt know the Firſt Meridian by, are depicted on<g ref="char:EOLhyphen"/>ly for every Fourteenth Midnight; ſince it is ſo, how ſhall I do it?</p>
+            </sp>
+            <pb n="4" facs="tcp:108792:5"/>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>When you have ſeen in your Calender what day of the Year the day foregoing your Obſervation is, you may (tho' you ſee nothing but your Ship, the Waters, and the Firmament) do it thus; by firſt find<g ref="char:EOLhyphen"/>ing out the neereſt depicted Row of Stars that belongs to your own pro<g ref="char:EOLhyphen"/>per Meridian where you are, being at a loſs at Sea, and, if they are not Vertical, by allowing for the defect, elſe by waiting till they are vertical and directly over your Head. For then (ſince the depicted Rows of Stars are all Equidiſtant, like ſo many Circles of Altitude) you will pre<g ref="char:EOLhyphen"/>ſently know your diſtance from the Row of Stars which you already know to be vertical to them who live under the Firſt Meridian, be you betwixt the two Continents where you will. But, you are to obſerve (for the timing of the thing) that you muſt look out as ſoon as 'tis Night, and you perceive that the Stars are clear; becauſe it may be when you are but Nine of the Clock <hi>(plus-minus)</hi> with you, when 'tis Midnight with them who live under the Firſt Meridian.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>You have ſatisfy'd me, as to this particular, ſomewhat; and I acknowledge (as well perceiving what you aim at by ſaying, all the Midnight Rows are Equidiſtant) that if your Hypotheſis hold through<g ref="char:EOLhyphen"/>out true, you have taken Time on Tiptoe indeed, and to good purpoſe, for which all <hi>Seamen</hi> will be very much oblig'd t'ye, as long as the Stars ſhine in the Aplanes or Firmament. For I well know that the diſtance of a Ship at Sea from the Firſt Meridian is the very Definition of the Longitude; ſo that if a man know his diſtance from that, he muſt needs know this; it is the Longitude found exactly. But I doubt, after all, that your Rule will fail in giving the exact diſtances; are you confident of the contrary?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>I do not love to aſſert any thing too confidently; but yet that I am confident of this, I ſhall not ſhun to ſay, in regard I can give you a ſubſtantial Reaſon for it. My reaſon is, becauſe I can tell you a way to know when the depicted Midnight Stars, for that Night when they make it Midnight to them who live under the Firſt Meridian or at the Azores, are there.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>That it is, after all, that I would fain have. If that may be known, the buſineſs is done undoubtedly, and more cannot be deſir'd: How is it that I may know this?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>That you may know what you inquire for, you are to obſerve which Row of the Stars depicted in your Map is vertical to you where you are, as ſoon as 'tis Night, and the Stars appear: Then you muſt look Eaſtward, and obſerve what Number of your Rows you can ſee beyond that which is your Midnight-Row (to be on that Night at the Firſt Meri<g ref="char:EOLhyphen"/>dian) and you will preſently find what you would have. The reaſon is,
+<pb n="5" facs="tcp:108792:5"/>becauſe betwixt the two oppoſite parts of the Horizontal Circle there are but twelve ſuch Rows in all; ſo that as many of them as you are diſtanc'd from the Firſt Meridian, ſo many you muſt loſe the ſight of, looking Eaſt<g ref="char:EOLhyphen"/>ward; foraſmuch as the Horizon, tho' it cut the Globe of the Earth into two equal parts, yet it alters as you go To or From the Firſt Meridian, according to the number of Leagues you go off from, or towards it. It follows therefore, that ſince you cannot be ſix Rows off from the Firſt Meridian, but you muſt needs be at <hi>America</hi> it ſelf, 'tis but obſerving what number of your Rows you have loſt the ſight of Eaſtward, and you will know, where the Row, that you expect to be at the Firſt Meridian for the Night you inquire for't, is preciſely there. For example, if you are Five Rows off from the Firſt Meridian, you will ſee, of neceſſity, but one Row beyond it, which will ſeem to you to be at, or near to the Eaſtern Horizon, and conſequently the Fifth is the Firſt Meridian Row, which is vertical to them at the Azores: If you are Four Rows off from the Firſt Meridian, and you can ſee but Two Rows beyond it, the ſight of the reſt being loſt, then the Fourth is their vertical, who live at the Azores; but if you have odds, as a Row and a half, or a Row and a quarter <hi>(plus minus)</hi> 'tis but allowing for the odds proportionably, and you will have what is deſir'd. It is ſo plain to me, that you cannot, I think, be miſtaken poſſibly; not much, I'm ſure, ſo as to miſs your end; and if you be miſtaken a little in not knowing preciſely unto a Point, when 'tis juſt Midnight at the Azores, tho' there be ſome Minutes loſt, yea, half an Hour, it matters not, becauſe you'll infallibly find by't what courſe to take, that you may arrive at the Haven you are making to; be you coming from <hi>America,</hi> or going thitherward, which is enough for your purpoſe; in regard Ten Leagues loſt at Sea is not ſo much as Ten Miles loſt to one on the Plains at Land; yea, not half ſo much, eſpeci<g ref="char:EOLhyphen"/>ally if the Man's Horſe be tir'd, ſo he be calm'd; to know what way you are to take is the main thing, and that you will ſurely be directed to. For, ſuppoſe we, that a Ship coming from the <hi>Cape of Good Hope</hi> be on this ſide the Aequator, caſt off by adverſe Winds towards the Coaſts of <hi>Virginia,</hi> or <hi>Newfoundland,</hi> will not the Pilot quickly perceive the Error he is in? He muſt needs, and that without fail, and quickly return into his way agen. What think you now? may I not cry out, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> with <hi>Archimedes,</hi> and ſay, <hi>The Longitude is found!</hi> You ſee, I hope, that I may; for which all <hi>Seamen</hi> will do well to Sing a Jubilate, or an <hi>O be Joyfal, to the Lord.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Your Rules, I confeſs, in my Judgment, are right; but I ſhall leave that to the expert Mathematician to judge of; all that I ſee reaſon
+<pb n="6" facs="tcp:108792:6"/>to doubt of is, whether they are Practicable or no; do you believe they are?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>Why they ſhould not be practicable, I ſee not, for why? can<g ref="char:EOLhyphen"/>not a good Aſtrologer erect Schemes to a Minute, and for every Midnight in the Year, if he pleaſe? Do not Mariners know the Signs in the <hi>Zo<g ref="char:EOLhyphen"/>diac?</hi> May they not know other Stars as well as the North Stars? Will not a Map laſt for many Years, eſpecially <hi>Stilo Nov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>?</hi> Doth not the Eighth Sphere move regularly? For my part, I look on the Retro<g ref="char:EOLhyphen"/>gradation of it to be a Phaenomenon indeed; that is, a meer ſeem; nor do I regard in this particular thoſe things, call'd <hi>Eccentrics</hi> and <hi>Epicicles;</hi> for my Hypotheſis reſpects the motion of the Eighth Sphere only, be<g ref="char:EOLhyphen"/>yond which I doubt whether there be ſuch a thing as a <hi>Primum movens,</hi> or no, it being deny'd by <hi>Copernicus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Sir, I thank you for your Endeavors to inſtruct me in this Secret of yours, and I will carefully conſider all by my ſelf, and I will ask but one Queſtion more; Doe you think (ſince the Learned have labour'd to unfold the Riddle by other means) that there is no better, or eaſier way than this?</p>
+            </sp>
+            <sp>
+               <speaker>Anſw.</speaker>
+               <p>To give you my Opinion in the Caſe, my Thoughts are, not on<g ref="char:EOLhyphen"/>ly that there is no Eaſier or Better, but that there is no other way at all, but by fixing ſomewhat firſt; it being agreeable to Reaſon, that we ſhould follow the duct of Nature, and not preſcribe to her, or force her to obey Rules of our making. For her ways are conſtant and invariable, from whence Fate took its Denomination; Fate being nothing elſe but Na<g ref="char:EOLhyphen"/>ture's following the Laws of its Maker, which it never Croſſeth, but on a new Juſſum or Command of his, Obedientially. It is true, God in his actual Providence can Countermand Fate, but no one elſe can; ſo that to put Nature aſide, or out of its Courſe, is to do ſuch Miracles as cannot be done, but by the Finger or Power of God alone.</p>
+            </sp>
+            <p>To draw to a Concluſion: Follow'd I have the Guidance of Reaſon and Nature; and the Rule I have given to find the Longitude at Sea by I conceive to be exactly true, for which I have made bold to Print this Dialogue of mine, yet humbly deſire do I ſome more skilful Artiſt than I am to Compoſe ſuch a Map as I have directed to, my ſelf having neither Globes, nor Leiſure, nor Health to doe it; and withal to Poliſh what is laid down by me rudely, and to bring it to Compleatneſs and full Per<g ref="char:EOLhyphen"/>fection.</p>
+            <p>In a word, it is the Rule only that I offer to the World, and if it be not a right one, I am content to take what follows, the <hi>Riſum teneatis,</hi> the Ridicule of them that find it otherwiſe. But being throughly per<g ref="char:EOLhyphen"/>ſwaded that it fail not in the main, and that it is not only true but practi<g ref="char:EOLhyphen"/>cable
+<pb n="7" facs="tcp:108792:6"/>too; to the end I may make the Noble <hi>Seaman</hi> Merry (inſtead of a luſty Punch-Bowl he delights ſo much in) I ſhall (being a Water-drinker, conſequently no good Poet) preſent him with a few mean Rhimes, as I have deſcanted on the whole.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="poem">
+                        <opener>
+                           <salute>N. S.</salute>
+                        </opener>
+                        <lg>
+                           <l>Known Midnight-Stars at th' Firſt Meriâian well</l>
+                           <l>Thee, where thou art, when loſt at Sea, they'll tell,</l>
+                           <l>My Rules but uſe right, 'twill be quickly prov'd,</l>
+                           <l>From them when ſeen how far thou art remov'd.</l>
+                           <l>If on the New World's Shoars thou chance to be,</l>
+                           <l>Them near th' Horizon in the Eaſt thou'lt ſee;</l>
+                           <l>When but half way, them 'bout the middle then</l>
+                           <l>'Twixt Firſt Meridian, and'ts Horizon ken:</l>
+                           <l>Proportions ta'en aright, bate but an Ace,</l>
+                           <l>Thy Diſtances thou'lt find, in ev'ry place:</l>
+                           <l>Thy Latitude as from <hi>Arcturus</hi> Clear</l>
+                           <l>Diſcern thou doſt, and right thy Veſſel Steer;</l>
+                           <l>So wilt thou too thy Longitude perceive,</l>
+                           <l>And learn the ſail'd-from Continent to leave.</l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>Seaman,</hi> go Plow then with thy Keel the Maine,</l>
+                           <l>Vaſt as it ſeems, 'tis but a <hi>Sal'sb'ry-Plain,</hi>
+                           </l>
+                           <l>Where, as the Steeple Trav'llers leads in doubt,</l>
+                           <l>Known Stars will guide thee in thy Courſe when out:</l>
+                           <l>My Counſel take tho', take't, I ſay agen,</l>
+                           <l>(Lonely the way) beware of Highway-men:</l>
+                           <l>More ſafe from Aberration thou wilt go,</l>
+                           <l>Than Skulking Pyrates, if thine Art they know;</l>
+                           <l>Heav'ns Linkboys elſe throughout will lead thy Feet,</l>
+                           <l>Juſt as do Flambeaus through a <hi>Lon'ons</hi> Street:</l>
+                           <l>But if with Clouds and Miſts the Stars look dim,</l>
+                           <l>God be'ng thy Pilot, put thy Truſt in Him;</l>
+                           <l>And ſince, Length, Breadth, Height, Depth, ſurmounts his Love,</l>
+                           <l>Beneath in Fears, thine Anchor caſt Above.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now, my dear Country-men, you that Travel the Seas, ſince Divinity is my Study, and Profeſſion, you will, I hope, accept of a little Advice from me; being ſuch as is of more Importance than the Knowledge of your Longitude, or Latitude either.</p>
+            <pb n="8" facs="tcp:108792:7"/>
+            <p>
+               <label>And my Advice t'ye, is,</label>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Having the Infinite Longitude of Eternity in your Thoughts, to ſteer your Lives according to Religion's Compaſs, remembring that when you came into the Church, like <hi>Noah</hi> entring into the Ark, you were Bap<g ref="char:EOLhyphen"/>tiz'd with Water and the Holy Ghoſt, and began upon the Waters, for the Salvation of your immortal Souls, which are more precious (a thouſand times more) that the richeſt Cargo's you bring from either of the <hi>Indi's.</hi> You know, that you are acquainted at Sea with nothing but Motion, the Heavens over your Heads are in Motion, the Waters under your Feet are in Motion, and wou'd you, like <hi>Noah</hi>'s Dove, have a bough or ſprig for your Souls to fix on in your reſtleſs Hoverings? There is none <hi>(foraſmuch as to know God, and Jeſus Chriſt whom he hath ſent is Eternal Life)</hi> but what a true Faith, and a good Life willhelp you to; theſe aſſuring you of it by a Covenant which is ſtable and unchangeable, admitting Repen<g ref="char:EOLhyphen"/>tance in the room of that ſinleſs Innocency which you loſt in <hi>Adam,</hi> that being your Duty, tho' you cannot perform it, ſtill. Here is the ſecurity of your Souls, which can have reſt no way elſe, and you know who hath ſaid, <hi>What ſhall it profit a man, if he gain the whole World, and loſe his own Soul?</hi> Be not too confident of preſent Proſperity, on which God, when he plea<g ref="char:EOLhyphen"/>ſes, can put an Embargo; Proſperity is a moſt deceitful thing, witneſs the <hi>Table-mount</hi> at the <hi>Cape,</hi> which, when 'tis ſpread with Diſhes of Cheer, and Sweet-meats, is not of good Hope for all that; for you know what follows, or, if you don't, you may learn from <hi>Varenius: Amen, Amen, dico vobis;</hi> indeed, indeed, your higheſt Intereſt is Religion.</p>
+            <p>
+               <label>And my Advice t'ye, is,</label>
+            </p>
+            <p n="2">
+               <hi>2dly,</hi> To carry the Goſpel with you to all the Longitudes and Latitudes at Land, where'er your Ships ſhall arrive, that you may be Co-Apoſtles, and Co-Evangeliſts with the Twelve and Seventy Two of Chriſt's choo<g ref="char:EOLhyphen"/>ſing, to carry the Glad-tidings thereof to the World's extremeſt Creeks and Angles, that ſo his Name may be known from the River of St. <hi>Law<g ref="char:EOLhyphen"/>rence</hi> to the Streights of <hi>Megellan,</hi> by <hi>Nadoveſſians,</hi> and <hi>Mexicans,</hi> them of <hi>Peru,</hi> and <hi>Chili,</hi> as alſo, Eaſtwardly, by thoſe of <hi>Guan, Japan, Cochin-China;</hi> and his ſaving Health to your <hi>Heteroſcii, Antiſcii,</hi> and <hi>Antipodes,</hi> that ſo Songs of <hi>Sion</hi> may be heard ſung to his Praiſe in all Places where any of the Sons of <hi>Adam</hi> live betwixt the <hi>Antick</hi> and <hi>Antarctick-Poles.</hi> Next to the ſaving your own ſelves, there is nothing you can do better poſſi<g ref="char:EOLhyphen"/>bly, this being the moſt acceptable ſervice you, or any Man can perform to the <hi>Great lover of Souls,</hi> who ſhed his moſt Precious Blood on the Croſs, not only for You and Me, but for all Men.</p>
+            <pb n="9" facs="tcp:108792:7"/>
+            <p>
+               <label>And my Advice t'ye, is,</label>
+            </p>
+            <p n="3">
+               <hi>3dly,</hi> Wheras the Old Proverb, <hi>(viz. He that knows not how to Pray, let him go to Sea)</hi> is good, that leaving off the deſperate Vice of Curſing and Swearing, rife among <hi>Seamen</hi> at the brink of Death, ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> learn to Pray: and, to the end ye may pray the Prayer of Faith, that ye make uſe of the Liturgy of the Church of <hi>England,</hi> which is throughout exactly, and with great adviſement Compos'd by the Reformers and Martyrs thereof, ac<g ref="char:EOLhyphen"/>cording to the Proportion or Analogy of Faith, its Perfection and Excel<g ref="char:EOLhyphen"/>lency conſiſting therein. For you cannot Pray in Faith (which is indeed Praying by the Spirit) unleſs you Believe aright firſt; Believe, I ſay, a Trinity of diſtinct Perſons in the Godhead, and the Incarnation of the Se<g ref="char:EOLhyphen"/>cond Perſon, as you are taught in the Creeds of the <hi>Catholic Church;</hi> ſo that without ſuch Belief you will in vain expect to be heard, becauſe no Prayer is ever heard by God the Father, but what goes to Heaven in the Name of Him, who is the only Propitiation for Sins, that is, God's only Son, whoſe Perſon being Begotten of the Father before all Worlds (ſo far being in Unity with his Subſtance, <hi>God of God</hi>) became Incarnate in time, was truly made Man, and Dy'd on the Croſs for the ſame; whereas (to unriddle one Miſtery more, perhaps to ſome a ſecret) that the Prayer of Faith ſhould not be heard (no wilful Sin unrepented of putting a Bar in the way, ſo drowning the Voice of Chriſt's Blood) is a thing altogether impoſſible; becauſe God's Veracity (He having made an unchangeable Co<g ref="char:EOLhyphen"/>venant, and withal ſtable Promiſes to hear them that call on him faithful<g ref="char:EOLhyphen"/>ly) is to him an Inviolable Law, and binds even Almightineſs it ſelf; withal becauſe out Bleſſed Saviour by his Interceſſion (to which his Love binds him alſo) takes care to mingle ſuch Prayers of Faith with the O<g ref="char:EOLhyphen"/>dours of his own Merits, and the Incenſe of the Burning Altar in Heaven above. It was for this that God ſaid once to <hi>Moſes,</hi> ſtanding in the Gap, and interceeding for the People who had ſinn'd ſo greatly, that the pro<g ref="char:EOLhyphen"/>vok'd God to deſtroy them, <hi>Let me alone,</hi> ſhewing thereby, that 'twas the Prayer of <hi>Moſes</hi> that withheld his Hands from ſtriking. You are to ob<g ref="char:EOLhyphen"/>ſerve, by the way, that Praying in Faith is not a Coming to God on Con<g ref="char:EOLhyphen"/>fidence that we are Holier than others, or ſome of God's Perſonal Ele<g ref="char:EOLhyphen"/>cted Ones, whom he has a particular Loving-kindneſs for; but on Confi<g ref="char:EOLhyphen"/>dence that he will hear us (tho' Sinners, if repenting of our Sins) for the ſake of his Son at his Right Hand, the Voice of whoſe Blood cannot but be heard, and the Demands of whoſe Merits will never be deny'd by God his Father. I have heard ſome in my time call the <hi>Litany</hi> Conju<g ref="char:EOLhyphen"/>ring (becauſe we pray in it particularly to the Son, <hi>By his Agony <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Bloo<g ref="char:EOLhyphen"/>dy Sweat, by his Croſs and Paſſion,</hi> &amp;c) This deriſion-wiſe and ſcoffingly;
+<pb n="10" facs="tcp:108792:8"/>but, when we pray to the Son, we ſtill pray to God; and if we take the Word in a good ſenſe, what if we call it Conjuring? Add but it's ad<g ref="char:EOLhyphen"/>junct Holy, and 'tis not the worſe for't, but the better. For, by ſuch Invokings do the Faithful more certainly bring down Mercies to them<g ref="char:EOLhyphen"/>ſelves from Heaven, than <hi>Negromancers</hi> (Apeing ſuch Divine Invokings) call up the Devil by their Enchantments and Charmes, foraſmuch as the Devil is a Liar from the beginning, but Chriſt is the God of Truth, who will never falſifie his Word. True, God heareth not Sinners, that is to ſay, Heatheniſh Idolaters, Publicans, ſuch as ſin on reſolvedly, who in Scripture ſtile are call'd Sinners by way of <hi>Emphaſis,</hi> becauſe they ſin without remorſe, and, come what will come, are not concern'd; but him that renounces his ſins heartily, and prays in Faith, Him the God of all Mercies delights to hear; and by this way may a devout Mariner, when he can ſtruggle with Winds and Storms no longer, wreſtle with him who appear'd to <hi>Jacob</hi> at <hi>Peniel,</hi> and hope to gain a Bleſſing, even in the midſt of Winds, Tempeſts, Thunders, Storms, Tornado's. This I have inſiſted the longer on, becauſe the Mariner, being very often in Dangers-mouth, had need learn to Pray, he above all Men.</p>
+            <p>
+               <label>And my Advice t'ye, is,</label>
+            </p>
+            <p>
+               <hi>Laſtly,</hi> To take care, that the firſt thing you do, when you are come home, or arriv'd at your deſir'd Haven with Ships of Delight, as <hi>Job</hi> calls them, you forthwith go from your Laden Ships to the Houſe of the Lord, there to ſing a new Song, as Men come from the Dead, to God your Saviour, not forgetting withal to bring a Thank-Offering to his Altar. For, ſuch bringing an Offering of Thankſgiving for Bleſſings re<g ref="char:EOLhyphen"/>ceiv'd, is a part of the Religion of Nature; <hi>Adam,</hi> had he continu'd in Innocency, muſt have ſo done, brought, I mean, the choiceſt Fruits that his Paradice could afford to the <hi>Panaiim,</hi> that is to ſay, the <hi>Preſence-Place,</hi> or the eſpecial Arbour in the midſt thereof (God meeting him there at ſet times, ſuppoſe on <hi>Sabbath-days</hi>) and lifting them up towards Heaven, as a Theruemah, or Heave-Offering, have Prais'd him with Heart and Voice (which the <hi>Pſalmist</hi> calls an <hi>Higgaian</hi>) for all the Benefits he en<g ref="char:EOLhyphen"/>joy'd by the Gift of his Creator only. For ſure it is, that our Bleſſed Saviour hath not taken away the Religion of Nature by coming into the World, but taken away only the Damnatory Power of the Law of Works, inſtituting Rites, as Prayers and Sacraments (knowing that our Duty to God the Father, that is, Living according to the Religion of Nature, is ſtill in force) for our aid and help, than by the Propitiatory Sacrifice, which is Himſelf offer'd up to Death on the Croſs for Mankind, taking Care that our Duty, which is too too imperfect (alas) to be pleaded at the
+<pb n="11" facs="tcp:108792:8"/>Throne of Juſtice, may paſs at the Throne of Mercy, and be accepted for his ſake, as if it were Perfect, and ſuch as <hi>Adam</hi> ow'd to his Maker before he ſinn'd. It is certain, that a <hi>Minchah Parum</hi> we are to bring ſtill in Thankfulneſs for all the Bleſſings we have; as the Primitive Chriſtians, when they came to the Sacrament in the Aples Days, of which their Love Feaſts were made, did; ſuch <hi>Minchah</hi> or Oblation being call'd Pure, in Contradiſtinction to the Bloody Sacrifices in the Type, of which the Death of Chriſt, which is the only true Propitiation for Sins, is the Ful<g ref="char:EOLhyphen"/>filling and the exact Completion; ſo that we may reſt ſatisfy'd in this, that ſuch an Offering or Oblation of Thankſgiving is exceedingly accepta<g ref="char:EOLhyphen"/>ble to God the Father, thro' Jeſus Chriſt our Lord, and ſuch as will move God to bleſs us, and cauſe us to proſper in all we do, as if he were A<g ref="char:EOLhyphen"/>toned and render'd Propitious by them, the defects of the Religion of Nature being taken away by the Worthineſs of Chriſt's Death.</p>
+            <p>Now, no more ſhall I add, but that my hope is, my Intention and De<g ref="char:EOLhyphen"/>ſign being Pious, it will have good ſucceſs; accordingly I ſhall give off here, only recommending to you all the words of the <hi>Pſalmist,</hi> in the 107th <hi>Pſalm,</hi>
+            </p>
+            <p>
+               <hi>They that go down to the Sea in Ships, that do buſineſs in great waters; theſe ſee the works of the Lord, and his wonders in the deep. For he commandeth and raiſeth the ſtormy wind, which lifteth up the waves thereof. They mount up to the Heaven, they go down again to the Depths, their Soul is melted becauſe of trouble. They reel to and fro, and ſtagger like a drunken man, and are at their wits end. Then they cry unto the Lord in their trouble, and he brinketh them out of their diſtreſſes. He maketh the ſtorm a calm, ſo that the waves thereof are ſtill. Then are they glad becauſe they be quiet; ſo he bringeth them unto their deſir'd Haven. O that men would praiſe the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord for his goodneſs, and for his won<g ref="char:EOLhyphen"/>derful works to the children of men!</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </q>
+         </div>
+         <div type="text">
+            <pb n="12" facs="tcp:108792:9"/>
+            <head>Habes hic, lector amice, ut impleatur pagina, Griphum nauticum, queſt poſtliminio, eo quod Typographus deſcripſit male, denuo editumla<g ref="char:EOLhyphen"/>time, ſed &amp; non inconcinn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, ut profiſcine loquar, oeu ineptam Expli<g ref="char:EOLhyphen"/>cationem ejus.</head>
+            <lg>
+               <l>T<g ref="char:V">Ʋ</g> mihi die verax, &amp; eris mihi magnus Apollo,</l>
+               <l>Cernam<g ref="char:punc">▪</g> quo tractis, ſtans Fixum Sydus, Olympi,</l>
+               <l>Quantum i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er ut noſcam perago vagus Erro per undas,</l>
+               <l>Cum Tranſverſa Navi tranans peto littora Mundi.</l>
+               <l>Hunc, lector, ſi ſcire velis, de nocte profundâ</l>
+               <l>Liherat Occiduus, Liniator nomine, Griphum.</l>
+            </lg>
+            <lg>
+               <head>EXPLICATIO.</head>
+               <l>Nil cùm ſubdola Acus poterit, Jovis &amp; Satrapa nil,</l>
+               <l>Hic cape, Nauta, Aenigma brevi, nec longius erra.</l>
+               <l>Aſtra (Globo poſſint cùm Erecto Schemata noſci,</l>
+               <l>Planis eſſe etiam fidè depicta Tabellis</l>
+               <l>Totum, quin vicibus, ter Septem &amp; quin<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> per Annum,</l>
+               <l>Noctibus appingas Mediis, quà Linea conſlat</l>
+               <l>Prima inter Plures (Arcton quae tangit, &amp; Auſtrum)</l>
+               <l>Juxta Aequatoreni, Tropicos inter<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; habebis</l>
+               <l>Nunc certum, quaſi Stans, Fruere, &amp; Citus utere puncto,</l>
+               <l>In quo Stellarum cerni Diſtantia poſſit,</l>
+               <l>Sydera quando micant, at primis Noctis in Horis,</l>
+               <l>Nec Cynoſura minùs dubiè te diriget uſquam;</l>
+               <l>Ne tardes, adhiber Momentum ſcilicet Alas.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
